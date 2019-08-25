@@ -39,7 +39,7 @@ A. F. Hittinger, Bringing global gyrokinetic turbulence simulations to the trans
 
 1. E. Zysman-Colman, J. D. Slinker, **J. B. Parker**, G. G. Malliaras, and S. Bernhard, Improved Turn-On Times of Light-Emitting Electrochemical Cells, *Chem. Mater.* 20, 388 (2008). [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][oled_times-doi]{:target="_blank"}
 
-1. J. D. Slinker, J. Rivnay, J. S. Moskowitz, **J. B. Parker**, S. Bernhard, H. D. Abruña, and G. G. Malliaras, Electroluminescent devices from ionic transition metal complexes, *J. Mater. Chem.* 2976 (2007) [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][oled_review-doi]{:target="_blank"}
+1. J. D. Slinker, J. Rivnay, J. S. Moskowitz, **J. B. Parker**, S. Bernhard, H. D. Abruña, and G. G. Malliaras, Electroluminescent devices from ionic transition metal complexes, *J. Mater. Chem.* 2976 (2007). [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][oled_review-doi]{:target="_blank"}
 
 <br> 
 
@@ -59,13 +59,13 @@ J. B. Parker, Zonal Flows and Turbulence in Fluids and Plasmas, Ph.D. Thesis (20
 [turbtransport_noise]: turbtransport_noise.pdf
 [turbtransport]: turbtransport.pdf
 [CE2GO_simulation]: CE2GO_simulation.pdf
-[CE2GO_Wigner_Moyal]: CE2GO_Wigner_Moyal.pdf
-[ZF_wave_kinetc]: ZF_wave_kinetic.pdf
+[CE2_Wigner_Moyal]: CE2GO_Wigner_Moyal.pdf
+[ZF_wave_kinetic]: ZF_wave_kinetic.pdf
 [ZF_generation_njp]: ZF_generation_njp.pdf
 [ZF_pattern_formation]: ZF_pattern_formation.pdf
 [HW_control]: HW_control.pdf
 [neoclassical_pedestal]: neoclassical_pedestal.pdf
-[neoclassical_variatoinal]: neoclassical_variational.pdf
+[neoclassical_variational]: neoclassical_variational.pdf
 [rotating_spoke]: rotating_spoke.pdf
 [parker_phd_thesis]: parker_phd_thesis.pdf
 
