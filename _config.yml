@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Jeff Parker
+title: Jeffrey Parker
 
 # Short description of your site
 description: Homepage for Jeff Parker
@@ -66,7 +66,7 @@ footer-hover-col: "#D4E6F1"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Jeff Parker
+  name: Jeffrey Parker
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -75,19 +75,19 @@ author:
 social-network-links:
   #rss: true
   email: "parker68@llnl.gov"
-  #facebook: deanattali
+  #facebook: 
   github: jeffbparker
   #twitter: daattali
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
+#  snapchat: 
+#  instagram: 
+#  youtube: user/
 #  spotify: yourname
 #  telephone: +14159998888
-#  steam: deanat78
+#  steam: 
 #  twitch: yourname
 #  yelp: yourname
 
@@ -99,7 +99,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "jeffreybparker.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "jeffreybparker.com"
 
 # --- Web Statistics Section --- #
 
