@@ -3,15 +3,15 @@ layout: page
 title: About me
 ---
 
-I deleted the subtitle (JP).
+### Education:
 
-My name is Inigo Montoya. I have the following qualities:
+* Ph.D., Astrophysical Sciences, Program in Plasma Physics, Princeton University (2014)
+* B.S., Engineering Physics, Cornell University (2008)
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Path
+Interest in clean energy and concern about climate change led me to pursue fusion.  From there I discovered the wide world of plasma physics and the myriad challenges and wonders of this branch of science.
 
-What else do you need?
+After my undergraduate and graduate studies, I completed a postdoc at Lawrence Livermore National Laboratory, in the magnetic fusion theory group within the Fusion Energy Sciences Program under PLS/Physics division.  Following the postdoc, I stayed on as a research scientist at LLNL.
 
-### my history
+Contact info: parker68 [at] llnl [dot] gov.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
