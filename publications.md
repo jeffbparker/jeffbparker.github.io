@@ -20,7 +20,7 @@ title: Publications
 
 # PhD Dissertation
 
-[magneticviscosity2019]:
+[magneticviscosity2019]: magneticviscosity2019.pdf
 [magneticsuppression2018]: magneticsuppression2018.pdf
 
 [arxiv:1902.01105]: https://arxiv.org/abs/1902.01105
