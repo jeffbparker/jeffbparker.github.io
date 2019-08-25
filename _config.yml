@@ -21,6 +21,7 @@ description: Homepage for Jeff Parker
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Research: "research"
   Publications: "publications"
   CV: "cv.pdf"
 
