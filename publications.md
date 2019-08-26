@@ -8,7 +8,7 @@ title: Publications
 
 ### Published
 
-1. **J. B. Parker** and N. C. Constantinou, Magnetic eddy viscosity of mean shear flows in two-dimensional magnetohydrodynamics. *Phys. Rev. Fluids*, 4, 083701 (2019). [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][magneticviscosity2019-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][magneticviscosity2019]
+1. **J. B. Parker** and N. C. Constantinou, Magnetic eddy viscosity of mean shear flows in two-dimensional magnetohydrodynamics. *Phys. Rev. Fluids*, 4, 083701 (2019). [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][magneticviscosity2019-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][magneticviscosity2019]
 
 1. N. C. Constantinou, and **J. B. Parker**, Magnetic suppression of zonal flows on a beta plane. *Astrophys. J.*, 863:46 (2018). [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][magneticsuppression2018-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][magneticsuppression2018]
 
@@ -23,7 +23,7 @@ A. F. Hittinger, Bringing global gyrokinetic turbulence simulations to the trans
 
 1. **J. B. Parker**, Dynamics of zonal flows: failure of wave-kinetic theory, and new geometrical optics approximations, *J. Plasma. Phys.* 82, 595820602 (2016). [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][ZF_wave_kinetic-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][ZF_wave_kinetic]
 
-1. **J. B. Parker and J. A. Krommes**, Generation of zonal flows through symmetry breaking of statistical homogeneity, *New J. Phys.* 16, 035006 (2014). [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][ZF_generation_njp-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][ZF_generation_njp]
+1. **J. B. Parker** and J. A. Krommes, Generation of zonal flows through symmetry breaking of statistical homogeneity, *New J. Phys.* 16, 035006 (2014). [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][ZF_generation_njp-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][ZF_generation_njp]
 
 1. **J. B. Parker** and J. A. Krommes, Zonal flow as pattern formation, *Phys. Plasmas* 20, 100703 (2013). [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][ZF_pattern_formation-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][ZF_pattern_formation]
 
