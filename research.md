@@ -45,7 +45,7 @@ One of the key challenges to using a turbulence simulation in the above approach
 
 <h2 id="neoclassical"></h2> <br />
 ## Neoclassical Transport Theory
-I spent a summer at MIT working on neoclassical transport theory.  One product of that was a drift-ordered, [variational computation of neoclassical transport][neoclassical_variational]] using the full Landau collision operator via a particular velocity basis expansion that worked rather well.  I also worked on how neoclassical transport coefficients are [modified in a tokamak pedestal][neoclassical_pedestal], where the radial electric field can be large enough to modify particle orbits.
+I spent a summer at MIT working on neoclassical transport theory.  One product of that was a drift-ordered, [variational computation of neoclassical transport][neoclassical_variational] using the full Landau collision operator via a particular velocity basis expansion that worked rather well.  I also worked on how neoclassical transport coefficients are [modified in a tokamak pedestal][neoclassical_pedestal], where the radial electric field can be large enough to modify particle orbits.
 
 
 
