@@ -8,7 +8,7 @@ title: Publications
 
 ### Published
 
-1. **J. B. Parker** and N. C. Constantinou, Magnetic eddy viscosity of mean shear flows in two-dimensional magnetohydrodynamics. *Phys. Rev. Fluids* (accepted 2019) [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arxiv:1902.01105]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][magneticviscosity2019]
+1. **J. B. Parker** and N. C. Constantinou, Magnetic eddy viscosity of mean shear flows in two-dimensional magnetohydrodynamics. *Phys. Rev. Fluids*, 4, 083701 (2019). [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][magneticviscosity2019-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][magneticviscosity2019]
 
 1. N. C. Constantinou, and **J. B. Parker**, Magnetic suppression of zonal flows on a beta plane. *Astrophys. J.*, 863:46 (2018). [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][magneticsuppression2018-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][magneticsuppression2018]
 
@@ -69,9 +69,9 @@ J. B. Parker, Zonal Flows and Turbulence in Fluids and Plasmas, Ph.D. Thesis (20
 [rotating_spoke]: rotating_spoke.pdf
 [parker_phd_thesis]: parker_phd_thesis.pdf
 
-[arxiv:1902.01105]: https://arxiv.org/abs/1902.01105
 [arxiv:1503.07498]: https://arxiv.org/abs/1503.07498
 
+[magneticviscosity2019-doi]: https://doi.org/10.1103/PhysRevFluids.4.083701
 [magneticsuppression2018-doi]: https://doi.org/10.3847/1538-4357/aace53
 [turbtransport_noise-doi]: https://doi.org/10.3390/plasma1010012
 [turbtransport-doi]: https://doi.org/10.1088/1741-4326/aab5c8
