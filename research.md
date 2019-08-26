@@ -27,11 +27,11 @@ In a [follow-up work][CE2_Wigner_Moyal], Daniel Ruiz, myself, Eric Shi, and Ilya
 To test the fidelity of CE2-GO and whether it would actually be a useful model for further fundamental studies of zonal flow, I [numerically simulated][CE2GO_simulation] it and compared with direct quasilinear simulations.  While the energy partition between fluctuations and zonal flow are correctly captured in CE2-GO, the scale length of the nonlinearly saturated zonal flow is not correctly recovered by CE2-GO.  This suggests that, unfortunately, some physics and instabilities that determine the zonal flow size could not be studied in the CE2-GO framework.
 
 #### Zonal flow and MHD, with potential applicability to the interior of gas giants
-Zonal flows often appear where there is rotation, and rotation and magnetization commonly appear together in astrophysical fluid dynamics, such as the sun, the interior of gas giants, and astrophysical disks.  For example, the Juno mission to Jupiter and Cassini mission to Saturn have recently measured how deep zonal flows persist in those planets, answering a longstanding mystery.  The depths at which the zonal flows terminate is coincident with a rapid rise in conductivity of the bulk fluid of the atmosphere, leading to the hypothesis that magnetic fields may be responsible for suppressing zonal flows at depth.  With my collaborator [Navid Constantinou](navidconstantinou.com), I've explored how zonal flow behaves in a conducting fluid, as opposed to ordinary hydrodynamic fluids, bringing in MHD physics.  
+Zonal flows often appear where there is rotation, and rotation and magnetization commonly appear together in astrophysical fluid dynamics, such as the sun, the interior of gas giants, and astrophysical disks.  For example, the Juno mission to Jupiter and Cassini mission to Saturn have recently measured how deep zonal flows persist in those planets, answering a longstanding mystery.  The depths at which the zonal flows terminate is coincident with a rapid rise in conductivity of the bulk fluid of the atmosphere, leading to the hypothesis that magnetic fields may be responsible for suppressing zonal flows at depth.  With my collaborator [Navid Constantinou][constantinou], I've explored how zonal flow behaves in a conducting fluid, as opposed to ordinary hydrodynamic fluids, bringing in MHD physics.  
 
-We found an intuitive physical picture of how magnetic fields suppress zonal flow.  For magnetic Reynolds number Rm >> 1, the magnetic field induced by a mean flow can act as an [effective *magnetic eddy viscosity*][magneticviscosity2019] back on the mean flow.  With a simple derivation based on the ideal MHD frozen in law combined with a short decorrelation time to due turbluence, we predicted a stress-shear relation wherein the Maxwell stress is directly proportional to the flow shear.  This effect would counteract the mean flow, and suppress a zonal flow when the magnetic energy is comparable to the kinetic energy.  We confirmed this prediction in 2D resistive, incompressible MHD simulations.
+We found an intuitive physical picture of how magnetic fields suppress zonal flow.  For magnetic Reynolds number Rm >> 1, the magnetic field induced by a mean flow can act as an [effective *magnetic eddy viscosity*](../publications/magneticviscosity2019.pdf) back on the mean flow.  With a simple derivation based on the ideal MHD frozen in law combined with a short decorrelation time to due turbluence, we predicted a stress-shear relation wherein the Maxwell stress is directly proportional to the flow shear.  This effect would counteract the mean flow, and suppress a zonal flow when the magnetic energy is comparable to the kinetic energy.  We confirmed this prediction in 2D resistive, incompressible MHD simulations.
 
-Additionally, we used a [CE2 zonostrophic instability analysis][magneticsuppression2018] framed around magneto-Rossby waves, without any assumption of scale separation between zonal flow and turbulence.  We found that MHD fluctuations could suppress the instability leading to formation of zonal flow.  The results agreed with a Kelvin-Orr shearing wave analysis in a certain asymptotic limit.
+Additionally, we used a [CE2 zonostrophic instability analysis](../publications/magneticsuppression2018.pdf) framed around magneto-Rossby waves, without any assumption of scale separation between zonal flow and turbulence.  We found that MHD fluctuations could suppress the instability leading to formation of zonal flow.  The results agreed with a Kelvin-Orr shearing wave analysis in a certain asymptotic limit.
 
 
 #### Equivalence of the secondary instability and the zonostrophic/modulational instability
@@ -49,13 +49,14 @@ I spent a summer at MIT working on neoclassical transport theory.  One product o
 
 
 
+[magneticsuppression2018]: ../publications/magneticsuppression2018.pdf
+[magneticviscosity2019]: ../publications/magneticviscosity2019.pdf
 [ZF_pattern_formation]: ../publications/ZF_pattern_formation.pdf
 [ZF_generation_njp]: ../publications/ZF_generation_njp.pdf
 [ZF_wave_kinetic]: ../publications/ZF_wave_kinetic.pdf
 [CE2_Wigner_Moyal]: ../publications/CE2GO_Wigner_Moyal.pdf
 [CE2GO_simulation]: ../publications/CE2GO_simulation.pdf
-[magneticsuppression2018]: ../publications/magneticsuppression2018.pdf
-[magneticviscosity2019]: ../publications/magneticviscosity2019.pdf
+
 [parker_phd_thesis]: ../publications/parker_phd_thesis.pdf
 
 [neoclassical_pedestal]: ../publications/neoclassical_pedestal.pdf
@@ -67,4 +68,4 @@ I spent a summer at MIT working on neoclassical transport theory.  One product o
 [magneticviscosity2019]: magneticviscosity2019.pdf
 [magneticsuppression2018]: magneticsuppression2018.pdf
 
-[arxiv:1902.01105]: https://arxiv.org/abs/1902.01105
+[constantinou]: https://www.navidconstantinou.com/
