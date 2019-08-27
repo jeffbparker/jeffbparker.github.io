@@ -29,7 +29,11 @@
             </div>
           </li>
         {% else %}
-          <li><a href="{{ link[1] | relative_url }}">{{ link[0] }}</a></li>
+          {% if link[1] contains '.pdf' %}
+            <li><a href="{{ link[1] | relative_url }}" target="_blank">{{ link[0] }}</a></li>
+          {% else %}
+            <li><a href="{{ link[1] | relative_url }}">{{ link[0] }}</a></li>
+          {%- endif -%}
         {%- endif -%}
       {%- endfor -%}
       </ul>
