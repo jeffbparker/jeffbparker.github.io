@@ -3,11 +3,16 @@ layout: page
 title: Research
 #subtitle:
 ---
+My main research interests are in topological plasma waves, zonal flow, and multiscale turbulence-transport coupling.  I'm also interested in quantum information science, high-energy-density physics, and plasma astrophysics.
 
 Jump to: <br />
+<a href="#topologicalplasmawaves">Topological Plasma Waves</a> <br />
 <a href="#zonalflow">Zonal Flow</a> <br />
-<a href="#coupling"> Multiscale Turbulence-transport Coupling </a> <br />
-<a href="#neoclassical">Neoclassical Transport Theory</a>
+<a href="#coupling"> Multiscale Turbulence-Transport Coupling </a> <br />
+
+<h2 id="topologicalplasmawaves"></h2> <br />
+## Topological Plasma Waves
+Recent discoveries have shown that states of matter can be characterized through a topological phase, with profound physical consequences, such as in the Integer Quantum Hall Effect in condensed matter physics.  A frontier research area is the study of topological waves in plasmas and possible topological protection properties.  I demonstrated that the [Alfvén continuum possesses nontrivial topology][Alfventopology]{:target="_blank"}, dependent on the sign of the magnetic shear, and hence there is a change of topological phase across a shear reversal layer.  This insight leads to the reinterpretation of the reversed-shear Alfvén eigenmode in tokamaks as a topological edge state, the first identification of such a mode in a fusion device.
 
 <h2 id="zonalflow"></h2> <br />
 ## Zonal Flow
@@ -47,12 +52,8 @@ Understanding of drift-wave turbulence in tokamaks has achieved remarkable succe
 
 One of the key challenges to using a turbulence simulation in the above approach is that the simulation inherently yields fluctuations in the heat flux.  There is thus a fundamentally new challenge compared to using the output of quasilinear model for a 1D transport solver, as the quasilinear models generally produce the same output for a given input.  Turbulence simulations, however, are fundamentally fluctuating (due to the turbulent physics, independent of the simulation method).  For practical usefulness, one must face up to these fluctuations and understand how much they hinder convergence to the desired solutions.  One can always simulate for a longer section of turbulence to have more averaging and decrease the variance, but the increases computational cost may be untenable.  I [investigated][turbtransport_noise]{:target="_blank"} the behavior of the LoDestro method in the presence of fluctuations, and helped estimate how much averaging would be required in practice.
 
-<h2 id="neoclassical"></h2> <br />
-## Neoclassical Transport Theory
-I spent a summer at MIT working on neoclassical transport theory.  One product of that was a drift-ordered, [variational computation of neoclassical transport][neoclassical_variational]{:target="_blank"} using the full Landau collision operator via a particular velocity basis expansion that worked rather well.  I also contributed to understanding how neoclassical transport coefficients are [modified in a tokamak pedestal][neoclassical_pedestal]{:target="_blank"}, where the radial electric field can be large enough to modify particle orbits.
 
-
-
+[Alfventopology]: https://arxiv.org/abs/1909.07910
 [magneticsuppression2018]: ../publications/magneticsuppression2018.pdf
 [magneticviscosity2019]: ../publications/magneticviscosity2019.pdf
 [ZF_pattern_formation]: ../publications/ZF_pattern_formation.pdf
@@ -62,9 +63,6 @@ I spent a summer at MIT working on neoclassical transport theory.  One product o
 [CE2GO_simulation]: ../publications/CE2GO_simulation.pdf
 
 [parker_phd_thesis]: ../publications/parker_phd_thesis.pdf
-
-[neoclassical_pedestal]: ../publications/neoclassical_pedestal.pdf
-[neoclassical_variational]: ../publications/neoclassical_variational.pdf
 
 [turbtransport]: ../publications/turbtransport.pdf
 [turbtransport_noise]: ../publications/turbtransport_noise.pdf
