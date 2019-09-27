@@ -3,8 +3,12 @@ layout: page
 title: Publications
 #subtitle:
 ---
+[Google Scholar page](https://scholar.google.com/citations?user=_w6i1bEAAAAJ&hl=en)
 
 # Journal articles
+
+### Submitted
+**J. B. Parker**, J. W. Burby, J. B. Marston, and S. M. Tobias, Nontrivial topology of the Alfvén continuum and topological character of reversed-shear Alfvén eigenmodes, *Submitted* (2019). [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arxiv:1909.07910]{:target="_blank"}
 
 ### Published
 
@@ -70,6 +74,7 @@ J. B. Parker, Zonal Flows and Turbulence in Fluids and Plasmas, Ph.D. Thesis (20
 [parker_phd_thesis]: parker_phd_thesis.pdf
 
 [arxiv:1503.07498]: https://arxiv.org/abs/1503.07498
+[arxiv:1909.07910]: https://arxiv.org/abs/1909.07910
 
 [magneticviscosity2019-doi]: https://doi.org/10.1103/PhysRevFluids.4.083701
 [magneticsuppression2018-doi]: https://doi.org/10.3847/1538-4357/aace53
