@@ -8,6 +8,8 @@ title: Publications
 # Journal articles
 
 ### Submitted
+**J. B. Parker**, J. B. Marston, S. M. Tobias, and Z. Zhu, Topological gaseous plasmon polariton in realistic plasma, *Submitted* (2019). [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arxiv:1911.01069]{:target="_blank"}
+
 **J. B. Parker**, J. W. Burby, J. B. Marston, and S. M. Tobias, Nontrivial topology of the Alfvén continuum and topological character of reversed-shear Alfvén eigenmodes, *Submitted* (2019). [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arxiv:1909.07910]{:target="_blank"}
 
 ### Published
@@ -75,6 +77,7 @@ J. B. Parker, Zonal Flows and Turbulence in Fluids and Plasmas, Ph.D. Thesis (20
 
 [arxiv:1503.07498]: https://arxiv.org/abs/1503.07498
 [arxiv:1909.07910]: https://arxiv.org/abs/1909.07910
+[arxiv:1911.01069]: https://arxiv.org/abs/1911.01069
 
 [magneticviscosity2019-doi]: https://doi.org/10.1103/PhysRevFluids.4.083701
 [magneticsuppression2018-doi]: https://doi.org/10.3847/1538-4357/aace53
