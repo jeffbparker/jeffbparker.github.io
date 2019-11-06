@@ -60,6 +60,7 @@ A. F. Hittinger, Bringing global gyrokinetic turbulence simulations to the trans
 J. B. Parker, Zonal Flows and Turbulence in Fluids and Plasmas, Ph.D. Thesis (2014). [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][parker_phd_thesis]{:target="_blank"}
 
 
+
 [magneticviscosity2019]: magneticviscosity2019.pdf
 [magneticsuppression2018]: magneticsuppression2018.pdf
 [turbtransport_noise]: turbtransport_noise.pdf
