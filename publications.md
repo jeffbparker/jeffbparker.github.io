@@ -8,7 +8,7 @@ title: Publications
 # Journal articles
 
 ### Submitted
-**J. B. Parker** and I. Joseph, Quantum phase estimation for restricted generalized eigenvalue problems with physical application, *Submitted* (2020). [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arxiv:2002.08497]{:target="_blank"}
+**J. B. Parker** and I. Joseph, Quantum phase estimation for a class of generalized eigenvalue problems, *Submitted* (2020). [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arxiv:2002.08497]{:target="_blank"}
 
 **J. B. Parker**, J. W. Burby, J. B. Marston, and S. M. Tobias, Nontrivial topology in the continuous spectrum of a magnetized plasma, *Submitted* (2019). [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arxiv:1909.07910]{:target="_blank"}
 
