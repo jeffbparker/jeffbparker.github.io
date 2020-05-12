@@ -8,11 +8,12 @@ title: Publications
 # Journal articles
 
 ### Submitted
-**J. B. Parker**, J. B. Marston, S. M. Tobias, and Z. Zhu, Topological gaseous plasmon polariton in realistic plasma, *Submitted* (2019). [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arxiv:1911.01069]{:target="_blank"}
+**J. B. Parker** and I. Joseph, Quantum phase estimation for restricted generalized eigenvalue problems with physical application, *Submitted* (2020). [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arxiv:2002.08497]{:target="_blank"}
 
-**J. B. Parker**, J. W. Burby, J. B. Marston, and S. M. Tobias, Nontrivial topology of the Alfvén continuum and topological character of reversed-shear Alfvén eigenmodes, *Submitted* (2019). [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arxiv:1909.07910]{:target="_blank"}
+**J. B. Parker**, J. W. Burby, J. B. Marston, and S. M. Tobias, Nontrivial topology in the continuous spectrum of a magnetized plasma, *Submitted* (2019). [<span class="btn btn-success btn-xs{{end}}" style="font-family:sans-serif;">arXiv</span>][arxiv:1909.07910]{:target="_blank"}
 
 ### Published
+1. **J. B. Parker**, J. B. Marston, S. M. Tobias, and Z. Zhu, Topological Gaseous Plasmon Polariton in Realistic Plasma, *Phys. Rev. Lett.* 124, 195001 (2020). [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][topological_plasmonpolariton-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][topological_plasmonpolariton]{:target="_blank"}
 
 1. **J. B. Parker** and N. C. Constantinou, Magnetic eddy viscosity of mean shear flows in two-dimensional magnetohydrodynamics. *Phys. Rev. Fluids*, 4, 083701 (2019). [<span class="btn btn-info btn-xs{{end}}" style="font-family:sans-serif;">doi</span>][magneticviscosity2019-doi]{:target="_blank"} [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][magneticviscosity2019]{:target="_blank"}
 
@@ -60,7 +61,7 @@ A. F. Hittinger, Bringing global gyrokinetic turbulence simulations to the trans
 J. B. Parker, Zonal Flows and Turbulence in Fluids and Plasmas, Ph.D. Thesis (2014). [<span class="btn btn-primary btn-xs{{end}}" style="font-family:sans-serif;">pdf</span>][parker_phd_thesis]{:target="_blank"}
 
 
-
+[topological_plasmonpolariton]: topological_plasmon_polariton.pdf
 [magneticviscosity2019]: magneticviscosity2019.pdf
 [magneticsuppression2018]: magneticsuppression2018.pdf
 [turbtransport_noise]: turbtransport_noise.pdf
@@ -76,10 +77,11 @@ J. B. Parker, Zonal Flows and Turbulence in Fluids and Plasmas, Ph.D. Thesis (20
 [rotating_spoke]: rotating_spoke.pdf
 [parker_phd_thesis]: parker_phd_thesis.pdf
 
+[arxiv:2002.08497]: https://arxiv.org/abs/2002.08497
 [arxiv:1503.07498]: https://arxiv.org/abs/1503.07498
 [arxiv:1909.07910]: https://arxiv.org/abs/1909.07910
-[arxiv:1911.01069]: https://arxiv.org/abs/1911.01069
 
+[topological_plasmonpolariton-doi]: https://doi.org/10.1103/PhysRevLett.124.195001
 [magneticviscosity2019-doi]: https://doi.org/10.1103/PhysRevFluids.4.083701
 [magneticsuppression2018-doi]: https://doi.org/10.3847/1538-4357/aace53
 [turbtransport_noise-doi]: https://doi.org/10.3390/plasma1010012
